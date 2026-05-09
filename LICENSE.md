@@ -1,4 +1,4 @@
-
+Logic Pro for macOS exclusive Addon: echo-removal & chromatic-aberration-fix offers the most advanced Logic Pro for macOS addon, with echo-removal and chromatic-aberration-fix.
 
 
 
